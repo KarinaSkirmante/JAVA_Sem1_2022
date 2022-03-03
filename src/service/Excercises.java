@@ -352,6 +352,16 @@ public class Excercises {
 	{
 		return 0.0;
 	}
+	
+	/**
+	 * Veic darbības ar kopām
+	 * @param input
+	 * @return
+	 */
+	public static String setOperations(String input)
+	{
+		return "";
+	}
 
 	
 	
