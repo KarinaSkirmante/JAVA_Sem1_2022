@@ -337,6 +337,10 @@ public class Excercises {
 	/**
 	 * Uztaisīt 6.uzdevumu
 	 */
+	
+	/**
+	 * Uztiasīt 7.uzdevumu
+	 */
 	//TODO 6. un 7. uzdevums
 
 	
