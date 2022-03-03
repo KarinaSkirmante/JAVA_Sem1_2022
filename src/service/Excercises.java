@@ -342,6 +342,16 @@ public class Excercises {
 	 * Uztiasīt 7.uzdevumu
 	 */
 	//TODO 6. un 7. uzdevums
+	
+	/**
+	 * Aprēķina string izteiksmi kā matemātiksu izteiksmi
+	 * @param inputEquation
+	 * @return
+	 */
+	public static double executeStringEquation(String inputEquation)
+	{
+		return 0.0;
+	}
 
 	
 	
