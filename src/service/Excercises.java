@@ -334,6 +334,9 @@ public class Excercises {
 		return new int[0];
 	}
 
+	/**
+	 * Uztaisīt 6.uzdevumu
+	 */
 	//TODO 6. un 7. uzdevums
 
 	
